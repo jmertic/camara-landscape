@@ -79,7 +79,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/telefonica
             twitter: https://twitter.com/Telefonica
             extra:
-              linkedin_url: https://www.linkedin.com/company/telef-nica-global-solutions
+              linkedin_url: https://www.linkedin.com/company/telef%C3%B3nica
           - item:
             name: T-Mobile PCS Holdings LLC
             homepage_url: https://t-mobile.com/
